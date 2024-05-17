@@ -1,2 +1,6 @@
 setuptools == 69.5.1
+zenml == 0.57.1 
+zenml[server]
+python-dotenv == 1.0.1
 llama-index == 0.10.13
+sentence-transformers == 2.7.0

@@ -41,6 +41,7 @@ files_to_create = [
     "src/__init__.py",
     "requirements.txt",
     "setup.py",
+    "app.py",
     "research/RAG Pipeline.ipynb",
 ]
 

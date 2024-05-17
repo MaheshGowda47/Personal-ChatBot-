@@ -39,6 +39,8 @@ class Template:
 # List of file paths to be created
 files_to_create = [
     "src/__init__.py",
+    "src/load_and_chunk.py",
+    "src/embedding_handler.py",
     "requirements.txt",
     "setup.py",
     "app.py",
